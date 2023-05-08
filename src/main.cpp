@@ -11,7 +11,7 @@
  *
  * Detailed explaination of namespace MyNamespace
  */
-namespace MyNamespace {
+namespace MyNamespaces {
 
 /**
  * @brief Brief explaination of namespace MyNamespace
